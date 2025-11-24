@@ -24,7 +24,7 @@ Alguns exercícios foram resolvidos em Python e outros em Java.
 
 ### Exercício 02 - Difícil - 
 
-![Screenshot do exercício](assets/)
+![Screenshot do exercício](assets/207_screenshot.png)
 
 ### Exercício 03 - Médio - 
 
