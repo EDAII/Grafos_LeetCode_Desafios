@@ -18,9 +18,9 @@ Alguns exercícios foram resolvidos em Python e outros em Java.
 
 ## Capturas de tela
 
-### Exercício 01 - Difícil -
+### Exercício 01 - Difícil - 1568. Minimum Number of Days to Disconnect Island
 
-![Screenshot do exercício](assets/)
+![Screenshot do exercício](assets/1568_screenshot.png)
 
 ### Exercício 02 - Difícil - 
 
