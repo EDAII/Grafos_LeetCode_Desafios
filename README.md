@@ -28,15 +28,15 @@ Alguns exercícios foram resolvidos em Python e outros em Java.
 
 ### Exercício 03 - Médio - 
 
-![Screenshot do exercício](assets/)
+![Screenshot do exercício](assets/1786_screenshot.png)
 
 ### Exercício 04 - Médio - 
 
-![Screenshot do exercício](assets/)
+![Screenshot do exercício](assets/3620_screenshot.png)
 
 ## Vídeo de apresentação do Trabalho 4
 
-[Link da apresentação do Trabalho 4](https://www.youtube.com/watch?v=pZomP2sFh9w)
+[Link da apresentação do Trabalho 4](https://youtu.be/tu-aAsUXyH4)
 
 ## Verificação
 
