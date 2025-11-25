@@ -20,19 +20,19 @@ Alguns exercícios foram resolvidos em Python e outros em Java.
 
 ### Exercício 01 - Difícil - 1568. Minimum Number of Days to Disconnect Island
 
-![Screenshot do exercício](1568_screenshot.png)
+![Screenshot do exercício](assets/1568_screenshot.png)
 
 ### Exercício 02 - Médio - 207. Course Schedul
 
-![Screenshot do exercício](207_screenshot.png)
+![Screenshot do exercício](assets/207_screenshot.png)
 
 ### Exercício 03 - Médio - 1786. Number of Restricted Paths From First to Last Node
 
-![Screenshot do exercício](1786_screenshot.png)
+![Screenshot do exercício](assets/1786_screenshot.png)
 
 ### Exercício 04 - Difícil - 3620. Network Recovery Pathways
 
-![Screenshot do exercício](3620_screenshot.png)
+![Screenshot do exercício](assets/3620_screenshot.png)
 
 ## Vídeo de apresentação do Trabalho 4
 
