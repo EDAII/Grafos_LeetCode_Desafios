@@ -22,15 +22,15 @@ Alguns exercícios foram resolvidos em Python e outros em Java.
 
 ![Screenshot do exercício](assets/1568_screenshot.png)
 
-### Exercício 02 - Difícil - 
+### Exercício 02 - Difícil - 207. Course Schedule
 
 ![Screenshot do exercício](assets/207_screenshot.png)
 
-### Exercício 03 - Médio - 
+### Exercício 03 - Médio - 1786. Number of Restricted Paths From First to Last Node
 
 ![Screenshot do exercício](assets/1786_screenshot.png)
 
-### Exercício 04 - Médio - 
+### Exercício 04 - Médio - 3620. Network Recovery Pathways
 
 ![Screenshot do exercício](assets/3620_screenshot.png)
 
