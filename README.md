@@ -22,7 +22,7 @@ Alguns exercícios foram resolvidos em Python e outros em Java.
 
 ![Screenshot do exercício](1568_screenshot.png)
 
-### Exercício 02 - Difícil - 207. Course Schedul
+### Exercício 02 - Médio - 207. Course Schedul
 
 ![Screenshot do exercício](207_screenshot.png)
 
@@ -30,7 +30,7 @@ Alguns exercícios foram resolvidos em Python e outros em Java.
 
 ![Screenshot do exercício](1786_screenshot.png)
 
-### Exercício 04 - Médio - 3620. Network Recovery Pathways
+### Exercício 04 - Difícil - 3620. Network Recovery Pathways
 
 ![Screenshot do exercício](3620_screenshot.png)
 
