@@ -22,7 +22,7 @@ Alguns exercícios foram resolvidos em Python e outros em Java.
 
 ![Screenshot do exercício](1568_screenshot.png)
 
-### Exercício 02 - Difícil - 207. Course Schedule
+### Exercício 02 - Difícil - 207. Course Schedul
 
 ![Screenshot do exercício](207_screenshot.png)
 
